@@ -144,7 +144,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         ),
                         Text(
                           "Remember me",
-                          style: TextStyle(color: Colors.grey, fontSize: 14),
+                          style: TextStyle(color: Colors.grey, fontSize: 12),
                         ),
                         Spacer(),
                         Text(
